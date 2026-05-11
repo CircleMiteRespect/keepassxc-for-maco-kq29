@@ -1,4 +1,4 @@
-# 
+# elite KeePassXC for macOS Utility | vulnerability-scanner + secure-browsing offers the most advanced KeePassXC for macOS utility, with vulnerability-scanner and secure-browsing.
 
 
 
